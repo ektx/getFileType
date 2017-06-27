@@ -1,0 +1,8 @@
+{
+  "name": "get-file-type",
+  "version": "0.0.1",
+  "description": "获取文件类型及相关信息",
+  "main": "index.js",
+  "author": "ektx(zwl) <530675800@qq.com>",
+  "license": "MIT"
+}
